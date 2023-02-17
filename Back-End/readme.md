@@ -2,12 +2,16 @@
 
 ## Author: Elaine Huynh
 
+### Deployed server
+https://barkbook-prod-server.onrender.com
+
 ### Run Locally
     - npm i
+    - node index.js
 
 ### Description
 
-    This is a simple RESTful server using express and NodeJS. It's main purpose is to utilize data from an API and store the data within a MySQL database. It also provides authentication and authorization for users to be added within the database and to store their user info within the application.
+This is a simple RESTful server using express and NodeJS. It's main purpose is to utilize data from an API and store the data within a MySQL database. It also provides authentication and authorization for users to be added within the database and to store their user info within the application.
 
 ### Endpoint
     - CITE/getDogs
@@ -19,4 +23,4 @@
     - CITE/login
         - Authenticates user account and returns a 200 code status or a 404 "Not a user" error
     - CITE/signup
-        - Adds user information to the database and returns a 200 code status 
+        - Adds user information to the database and returns a 200 code status
