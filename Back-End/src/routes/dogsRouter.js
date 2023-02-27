@@ -17,12 +17,11 @@ router.get('/getAnimals', petAuth, async (req, res, err) => {
     // get animal data
     if(token){
         try {
-            const response = await axios.get('https://api.petfinder.com/v2/animals', {
+            const response = await axios.get('https://api.petfinder.com/v2/types/Dog', {
                 headers: {
                     'Authorization': token
                 }
             });
-            console.log(response.data.animals.length);
             res.status(200).send(response.data);
         } catch (err) {
             res.status(400).send(err);
