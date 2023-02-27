@@ -13,6 +13,7 @@ router.get('/getAnimals', petAuth, async (req, res, err) => {
 
     console.log(req.headers);
     const token = req.headers.authorization;
+    console.log("Passed Token => ", token);
     // get animal data
     if(token){
         try {

@@ -6,7 +6,7 @@ const app = express();
 const axios = require('axios');
 
 module.exports = async (req, res, next) => {
-    console.log("hello");
+
     try {
         const response = await axios.post(
             'https://api.petfinder.com/v2/oauth2/token',
@@ -19,7 +19,8 @@ module.exports = async (req, res, next) => {
         );
         if(response.data){
             let token = response.data.access_token;
-            req.headers.authorization = `bearer ${token}`;
+            console.log("token => ", typeof token);
+            req.headers.authorization = `Bearer ${token}`;
             next();
         }
     } catch (err) {
