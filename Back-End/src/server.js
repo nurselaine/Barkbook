@@ -1,3 +1,5 @@
+'use strict';
+
 const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
@@ -7,7 +9,15 @@ app.use(cors());
 
 const PORT = process.env.PORT || 3002;
 
-app.get('/', (req, res) => {
+// imported files
+const dogsRouter = require('./routes/dogsRouter');
+const logger = require('./middleware/logger');
+const petAuth = require('./middleware/petAuth');
+
+app.use(logger);
+app.use(dogsRouter, petAuth);
+
+app.get('/', (req, res, err) => {
     res.status(200).send("Welcome to the BarkBook Server!");
 })
 
