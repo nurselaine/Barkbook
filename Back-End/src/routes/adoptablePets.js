@@ -14,5 +14,15 @@ router.get('/', async (req, res, next) => {
     }
 });
 
+router.get('/:id', async (req, res, next) => {
+    const { id } = req.params;
+    console.log("id => ", id);
+    try {
+        res.json(await adoptablePets.findOne(id));
+    } catch (error) {
+        console.error(`Error while fetching pet data`, error.message);
+    }
+})
+
 
 module.exports = router;
