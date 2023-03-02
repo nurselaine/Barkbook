@@ -17,7 +17,7 @@ router.get('/getAnimals', petAuth, async (req, res, err) => {
     // get animal data
     if(token){
         try {
-            const response = await axios.get('https://api.petfinder.com/v2/types/Dog', {
+            const response = await axios.get('https://api.petfinder.com/v2/animals', {
                 headers: {
                     'Authorization': token
                 }
@@ -30,5 +30,9 @@ router.get('/getAnimals', petAuth, async (req, res, err) => {
         res.status(404).send(`bad token. check credentials`);
     }
 });
+
+function sanitizeData(data){
+    
+}
 
 module.exports = router;

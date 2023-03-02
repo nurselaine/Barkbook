@@ -2,11 +2,6 @@ const db = require('./db');
 const helper = require('../../helper');
 const config = require('../../config');
 
-async function eraseData(){
-    const result = await db.query(`
-        DROP [IF EXIST] programming_languages
-    `);
-}
 
 async function getMultiple(page = 1){
     const offset = helper.getOffset(page, config.listPerPage);

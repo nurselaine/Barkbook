@@ -7,7 +7,7 @@ const config = {
         password: process.env.MY_SQL_PASSWORD,
         database: process.env.MY_SQL_DATABASE,
     },
-    listPerPage: 10,
+    listPerPage: 100,
 };
 
 module.exports = config;

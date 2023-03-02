@@ -12,6 +12,7 @@ const PORT = process.env.PORT || 3002;
 // imported files
 const dogsRouter = require('./routes/dogsRouter');
 const programmingLanguagesRouter = require('./routes/programmingLanguages');
+const adoptablePetsRouter = require('./routes/adoptablePets');
 const logger = require('./middleware/logger');
 const petAuth = require('./middleware/petAuth');
 
@@ -21,6 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(logger);
 app.use(dogsRouter, petAuth);
 app.use('/programming-languages', programmingLanguagesRouter);
+app.use('/adoptable-pets', adoptablePetsRouter);
 
 app.get('/', (req, res, err) => {
     res.status(200).send("Welcome to the BarkBook Server!");
