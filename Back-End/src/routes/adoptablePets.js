@@ -4,7 +4,7 @@ const express = require('express');
 const router = express.Router();
 
 const adoptablePets = require('../services/adoptablePets');
-const petComments = require('../services/petComments');
+const data = require('../../adoptable_pets.json');
 
 router.get('/', async (req, res, next) => {
     try {
@@ -24,5 +24,12 @@ router.get('/:id', async (req, res, next) => {
     }
 })
 
+router.post('/', async(req, res, next) => {
+    try{
+        res.json(await adoptablePets.create(data.pets));
+    } catch (error) {
+        console.error(`Error while fetching pet data`, error.message);
+    }
+})
 
 module.exports = router;

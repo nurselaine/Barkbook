@@ -9,12 +9,12 @@ const axios = require('axios');
 const router = express.Router();
 
 const petAuth = require('../middleware/petAuth');
-const { json } = require('express');
 
 router.get('/getAnimals', petAuth, async (req, res, err) => {
 
     const token = req.headers.authorization;
     // get animal data
+    console.log(token);
     if(token){
         try {
             const response = await axios.get('https://api.petfinder.com/v2/animals?type=dog', {
@@ -40,7 +40,7 @@ function sanitizeData(data){
     jsonData.pets = petArr.map(pet => ({
         "name": pet.name,
         "age": pet.age,
-        "primary_color": pet.colors,
+        "primary_color": pet.colors.primary,
         "url": pet.url,
         "imgsrc": pet.photos[0].full,
         "pet_id": pet.id,
