@@ -13,9 +13,7 @@ const { json } = require('express');
 
 router.get('/getAnimals', petAuth, async (req, res, err) => {
 
-    console.log(req.headers);
     const token = req.headers.authorization;
-    console.log("Passed Token => ", token);
     // get animal data
     if(token){
         try {
@@ -62,8 +60,6 @@ function sanitizeData(data){
         if(err) throw err;
         console.log('Saved!');
     })
-
-    console.log(jsonData);
 
     return petArr;
 }
