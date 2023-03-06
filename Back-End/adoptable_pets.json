@@ -1,0 +1,384 @@
+{
+  "pets": [
+    {
+      "name": "Ceejay",
+      "age": "Adult",
+      "primary_color": {
+        "primary": "Tricolor (Brown, Black, & White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/ceejay-60524241/oh/cincinnati/three-sisters-pet-rescue-ohio-hound-rescue-oh383/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524241/4/?bust=1678088027",
+      "pet_id": 60524241,
+      "context": "Ceejay lost her home when her owner became ill. She is now in rescue and receiving vet care. A very...",
+      "breed": "Beagle",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": "skhergert@yahoo.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Cowboy",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/cowboy-60524228/tn/columbia/city-of-columbia-maury-county-animal-services-facility-tn51/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524228/1/?bust=1678087915",
+      "pet_id": 60524228,
+      "context": ".Adopt from MCAS\nAll of our dogs are spayed/neutered, heartworm tested (and treated if positive), microchipped, and current on all...",
+      "breed": "Mixed Breed",
+      "gender": "Male",
+      "size": "Large",
+      "spayed_neutered": true,
+      "email": "Maurycountyanimalservices@outlook.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Spot",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/spot-60524227/tn/columbia/city-of-columbia-maury-county-animal-services-facility-tn51/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524227/1/?bust=1678087919",
+      "pet_id": 60524227,
+      "context": ".Adopt from MCAS\nAll of our dogs are spayed/neutered, heartworm tested (and treated if positive), microchipped, and current on all...",
+      "breed": "Mixed Breed",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": "Maurycountyanimalservices@outlook.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Beauty",
+      "age": "Adult",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/beauty-60524226/tn/columbia/city-of-columbia-maury-county-animal-services-facility-tn51/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524226/1/?bust=1678087911",
+      "pet_id": 60524226,
+      "context": ".Adopt from MCAS\nAll of our dogs are spayed/neutered, heartworm tested (and treated if positive), microchipped, and current on all...",
+      "breed": "Mixed Breed",
+      "gender": "Female",
+      "size": "Large",
+      "spayed_neutered": true,
+      "email": "Maurycountyanimalservices@outlook.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Coconut",
+      "age": "Adult",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/coconut-60524225/tn/columbia/city-of-columbia-maury-county-animal-services-facility-tn51/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524225/1/?bust=1678087916",
+      "pet_id": 60524225,
+      "context": ".Adopt from MCAS\nAll of our dogs are spayed/neutered, heartworm tested (and treated if positive), microchipped, and current on all...",
+      "breed": "Mixed Breed",
+      "gender": "Female",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "Maurycountyanimalservices@outlook.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Evelyn ",
+      "age": "Baby",
+      "primary_color": {
+        "primary": "Merle (Blue)",
+        "secondary": "Tricolor (Brown, Black, & White)",
+        "tertiary": "White / Cream"
+      },
+      "url": "https://www.petfinder.com/dog/evelyn-60524223/mi/clinton-township/saving-destiny-animal-rescue-mi1130/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524223/1/?bust=1678087293",
+      "pet_id": 60524223,
+      "context": "Dog application: https://petstablished.com/adoption_form/40532/generic",
+      "breed": "Catahoula Leopard Dog",
+      "gender": "Female",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "savingdestinyanimalrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Emmett",
+      "age": "Baby",
+      "primary_color": {
+        "primary": "Bicolor",
+        "secondary": "Black",
+        "tertiary": "Brindle"
+      },
+      "url": "https://www.petfinder.com/dog/emmett-60524220/mi/clinton-township/saving-destiny-animal-rescue-mi1130/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524220/1/?bust=1678087209",
+      "pet_id": 60524220,
+      "context": "Dog application: https://petstablished.com/adoption_form/40532/generic",
+      "breed": "Catahoula Leopard Dog",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "savingdestinyanimalrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Edward",
+      "age": "Baby",
+      "primary_color": {
+        "primary": "Bicolor",
+        "secondary": "Black",
+        "tertiary": "Brindle"
+      },
+      "url": "https://www.petfinder.com/dog/edward-60524218/mi/clinton-township/saving-destiny-animal-rescue-mi1130/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524218/5/?bust=1678087138",
+      "pet_id": 60524218,
+      "context": "Dog application: https://petstablished.com/adoption_form/40532/generic",
+      "breed": "Catahoula Leopard Dog",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "savingdestinyanimalrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Sarge",
+      "age": "Adult",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/sarge-60524217/ga/carrollton/carroll-county-animal-shelter-ga38/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524217/1/?bust=1678087727",
+      "pet_id": 60524217,
+      "context": "Sarge is a 5 year old Bulldog/Lab mix. This handsome boy is sad here at the shelter, and a little...",
+      "breed": "American Bulldog",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": null,
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Easten",
+      "age": "Baby",
+      "primary_color": {
+        "primary": "Bicolor",
+        "secondary": "Black",
+        "tertiary": "Brindle"
+      },
+      "url": "https://www.petfinder.com/dog/easten-60524216/mi/clinton-township/saving-destiny-animal-rescue-mi1130/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524216/2/?bust=1678087066",
+      "pet_id": 60524216,
+      "context": "Dog application: https://petstablished.com/adoption_form/40532/generic",
+      "breed": "Catahoula Leopard Dog",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "savingdestinyanimalrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Evan",
+      "age": "Baby",
+      "primary_color": {
+        "primary": "Bicolor",
+        "secondary": "Black",
+        "tertiary": "Brindle"
+      },
+      "url": "https://www.petfinder.com/dog/evan-60524215/mi/clinton-township/saving-destiny-animal-rescue-mi1130/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524215/2/?bust=1678087000",
+      "pet_id": 60524215,
+      "context": "Dog application: https://petstablished.com/adoption_form/40532/generic",
+      "breed": "Catahoula Leopard Dog",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "savingdestinyanimalrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Dester",
+      "age": "Baby",
+      "primary_color": {
+        "primary": "Apricot / Beige",
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/dester-60524207/ca/oceanside/4-the-love-of-dogs-ca2814/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524207/1/?bust=1678086385",
+      "pet_id": 60524207,
+      "context": "Dester is very cuddly dog he love kids and dogs he’s very sweet he has full vaccines and deworming and...",
+      "breed": "Shepherd",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "yuribiag03@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Ozzie",
+      "age": "Adult",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/ozzie-60524204/ga/carrollton/carroll-county-animal-shelter-ga38/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524204/1/?bust=1678086760",
+      "pet_id": 60524204,
+      "context": "Ozzie is a 4 year old Lab/Shep who is very sweet, energetic, and playful! This handsome fella loves adventures, going...",
+      "breed": "Yellow Labrador Retriever",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": null,
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Kadet",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/kadet-60524206/ga/carrollton/carroll-county-animal-shelter-ga38/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524206/1/?bust=1678086760",
+      "pet_id": 60524206,
+      "context": "Kadet is an almost 2 year old Anatolian Shepherd mix who is just as sweet as he is handsome! Kadet...",
+      "breed": "Anatolian Shepherd",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": null,
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Pocket",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/pocket-60524205/ga/carrollton/carroll-county-animal-shelter-ga38/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524205/1/?bust=1678086760",
+      "pet_id": 60524205,
+      "context": "Pocket is a 10 month Pit mix who is a very playful puppy! Pocket is a smaller pit mix, weighing...",
+      "breed": "Pit Bull Terrier",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": null,
+      "animal_type": "Dog"
+    },
+    {
+      "name": "SCOOBY",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/scooby-60524198/ca/van-nuys/city-of-los-angeles-east-valley-animal-shelter-ca767/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524198/1/?bust=1678086183",
+      "pet_id": 60524198,
+      "context": null,
+      "breed": "Mixed Breed",
+      "gender": "Male",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": null,
+      "animal_type": "Dog"
+    },
+    {
+      "name": "BELLE",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/belle-60524199/ca/van-nuys/city-of-los-angeles-east-valley-animal-shelter-ca767/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524199/1/?bust=1678086183",
+      "pet_id": 60524199,
+      "context": null,
+      "breed": "Mixed Breed",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": null,
+      "animal_type": "Dog"
+    },
+    {
+      "name": "JACK",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/jack-60524194/ca/santa-cruz/santa-cruz-county-animal-shelter-ca625/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524194/1/?bust=1678086183",
+      "pet_id": 60524194,
+      "context": "Meet Jack. This XL cloud of love came to the Shelter as an owner surrender. Their previous guardian moved and...",
+      "breed": "Great Pyrenees",
+      "gender": "Male",
+      "size": "Extra Large",
+      "spayed_neutered": true,
+      "email": "sccasadoption@scanimalshelter.org",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Rose",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/rose-60524189/nj/pittstown/lost-paws-animal-rescue-nj507/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524189/1/?bust=1678085550",
+      "pet_id": 60524189,
+      "context": "Rose is a 1-3yr old Terrier mix, who came into rescue with her litter of puppies. She was a great...",
+      "breed": "Terrier",
+      "gender": "Female",
+      "size": "Medium",
+      "spayed_neutered": false,
+      "email": "lostpawsrescue@embarqmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Daytona",
+      "age": "Young",
+      "primary_color": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "url": "https://www.petfinder.com/dog/daytona-60524184/ga/carrollton/carroll-county-animal-shelter-ga38/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60524184/1/?bust=1678085843",
+      "pet_id": 60524184,
+      "context": "Daytona is a 1.5 year old Shepherd mix who is a very sweet girl, she is just very timid and...",
+      "breed": "Shepherd",
+      "gender": "Female",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": null,
+      "animal_type": "Dog"
+    }
+  ]
+}
