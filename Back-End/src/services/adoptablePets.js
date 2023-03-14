@@ -45,9 +45,11 @@ async function create(petData){
 }
 
 async function update(petData, id){
+    console.log("pet data => ",petData);
+    console.log("id => ", id);
     let result = await db.query(
-        `UPDATE adoptable_pets SET pet_id = ${petData.pet_id}, name = "${petData.name}", age="${petData.age}", primary_color="${petData.primary_color}", breed="${petData.breed}", gender="${petData.gender}", size="${petData.size}", url="${petData.url}", imgsrc="${petData.imgsrc}", context="${petData.context}", spayed_neutered=${petData.spayed_neutered}, email="${petData.email}", animal_type="${petData.animal_type}"
-        WHERE pet_id=${id}`
+        `UPDATE adoptable_pets SET pet_id=${petData.pet_id}, name = "${petData.name}", age="${petData.age}", primary_color="${petData.primary_color}", breed="${petData.breed}", gender="${petData.gender}", size="${petData.size}", url="${petData.url}", imgsrc="${petData.imgsrc}", context="${petData.context}", spayed_neutered=${petData.spayed_neutered}, email="${petData.email}", animal_type="${petData.animal_type}"
+        WHERE id=${id}`
     )
 
     let message = `Error in updating programming language`;
