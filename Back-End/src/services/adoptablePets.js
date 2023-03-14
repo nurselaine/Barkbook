@@ -8,7 +8,7 @@ const config = require('../../config');
 async function getMultiple(page = 1){
     const offset = helper.getOffset(page, config.listPerPage);
     const rows = await db.query(
-        `SELECT pet_id, imgsrc FROM adoptable_pets`
+        `SELECT id, pet_id, imgsrc FROM adoptable_pets`
     );
     const data = helper.emptyOrRows(rows);
     const meta = { page };
@@ -19,9 +19,9 @@ async function getMultiple(page = 1){
     }
 }
 
-async function findOne(pet_id){
+async function findOne(id){
     const row = await db.query(
-        `SELECT * FROM adoptable_pets WHERE pet_id = ${pet_id}`
+        `SELECT * FROM adoptable_pets WHERE id = ${id}`
     )
 
     const data = helper.emptyOrRows(row);
@@ -29,9 +29,10 @@ async function findOne(pet_id){
 }
 
 async function create(petData){
+    console.log("Pet id => ", petData.pet_id);
     let result = await db.query(
-        `INSERT INTO adoptable_pets (name,age, primary_color, breed, gender, size, url, imgsrc, context, spayed_neutered, email,animal_type)
-        VALUES ("${petData.name}", "${petData.age}", "${petData.primary_color}", "${petData.breed}", "${petData.gender}", "${petData.size}", "${petData.url}", "${petData.imgsrc}", "${petData.context}", ${petData.spayed_neutered}, "${petData.email}", "${petData.animal_type}")`
+        `INSERT INTO adoptable_pets (pet_id,name,age, primary_color, breed, gender, size, url, imgsrc, context, spayed_neutered, email,animal_type)
+        VALUES (${petData.pet_id}, "${petData.name}", "${petData.age}", "${petData.primary_color}", "${petData.breed}", "${petData.gender}", "${petData.size}", "${petData.url}", "${petData.imgsrc}", "${petData.context}", ${petData.spayed_neutered}, "${petData.email}", "${petData.animal_type}")`
     );
 
     let message = `Error, something went wrong trying to add in data`;
@@ -43,11 +44,20 @@ async function create(petData){
     return { message };
 }
 
-// async function update(petData){
-//     let result = await db.query(
-//         `UPDATE adoptable_pets SET `
-//     )
-// }
+async function update(petData, id){
+    let result = await db.query(
+        `UPDATE adoptable_pets SET pet_id = ${petData.pet_id}, name = "${petData.name}", age="${petData.age}", primary_color="${petData.primary_color}", breed="${petData.breed}", gender="${petData.gender}", size="${petData.size}", url="${petData.url}", imgsrc="${petData.imgsrc}", context="${petData.context}", spayed_neutered=${petData.spayed_neutered}, email="${petData.email}", animal_type="${petData.animal_type}"
+        WHERE pet_id=${id}`
+    )
+
+    let message = `Error in updating programming language`;
+
+    if(result.affectedRows){
+        message = `Programming language updated succesfully!`;
+    }
+
+    return { message };
+}
 
 async function remove(id){
     let row = await db.query(
@@ -61,9 +71,11 @@ async function remove(id){
     return {message};
 }
 
+
 module.exports = {
     getMultiple,
     findOne,
     create,
+    update,
     remove,
 }

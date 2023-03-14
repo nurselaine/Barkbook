@@ -30,8 +30,9 @@ router.post('/', async(req, res, next) => {
         let count = 0;
         let pet_data = data.pets;
 
-        for(let i = 2; i < size; i++){
+        for(let i = 0; i < size; i++){
             pet_data[i].spayed_neutered = pet_data[i].spayed_neutered ? 0 : 1;
+            // console.log(pet_data[i]);
             await adoptablePets.create(pet_data[i]);
             count++;
         }
@@ -40,6 +41,15 @@ router.post('/', async(req, res, next) => {
         console.error(`Error while fetching pet data`, error.message);
     }
 });
+
+router.put('/:id', async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        res.json(await adoptablePets.update(req.body, id));
+    } catch (error){
+        console.error(`Error while fetching pet data`, error.message);
+    }
+})
 
 router.delete('/:id', async (req, res, next) => {
     try {
