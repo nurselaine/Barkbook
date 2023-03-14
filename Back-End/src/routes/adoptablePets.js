@@ -26,7 +26,26 @@ router.get('/:id', async (req, res, next) => {
 
 router.post('/', async(req, res, next) => {
     try{
-        res.json(await adoptablePets.create(data.pets));
+        let size = data.pets.length;
+        let count = 0;
+        let pet_data = data.pets;
+
+        for(let i = 2; i < size; i++){
+            pet_data[i].spayed_neutered = pet_data[i].spayed_neutered ? 0 : 1;
+            await adoptablePets.create(pet_data[i]);
+            count++;
+        }
+        res.json(`Added ${count}/${size} adoptable pets`)
+    } catch (error) {
+        console.error(`Error while fetching pet data`, error.message);
+    }
+});
+
+router.delete('/:id', async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        console.log("id => " + id)
+        res.json(await adoptablePets.remove(id));
     } catch (error) {
         console.error(`Error while fetching pet data`, error.message);
     }

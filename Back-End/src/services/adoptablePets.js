@@ -29,31 +29,41 @@ async function findOne(pet_id){
 }
 
 async function create(petData){
+    let result = await db.query(
+        `INSERT INTO adoptable_pets (name,age, primary_color, breed, gender, size, url, imgsrc, context, spayed_neutered, email,animal_type)
+        VALUES ("${petData.name}", "${petData.age}", "${petData.primary_color}", "${petData.breed}", "${petData.gender}", "${petData.size}", "${petData.url}", "${petData.imgsrc}", "${petData.context}", ${petData.spayed_neutered}, "${petData.email}", "${petData.animal_type}")`
+    );
 
-    let size = petData.length;
-    let count = 0;
+    let message = `Error, something went wrong trying to add in data`;
 
-    for(let i = 0; i < size; i++){
-        let row = await db.query(
-            `INSERT INTO adoptable_pets
-            (pet_id,name,age, primary_color, breed, gender, size, url, imgsrc, context, spayed_neutered, email,animal_type)
-            VALUES
-            (${petData[i].pet_id},${petData[i].name},${petData[i].age},${petData[i].primary_color},${petData[i].breed},${petData[i].gender},${petData[i].size},${petData[i].url},${petData[i].imgsrc},${petData[i].context},${petData[i].spayed_neutered},${petData[i].email},${petData[i].animal_type})`
-        )
-
-        if(row.affectedRows){
-            count++;
-        }
+    if(result.affectedRows){
+        message = 'Sucessfully added dog data';
     }
 
-    let message = `Added ${count}/${size} adoptable pets`;
-
     return { message };
+}
 
+// async function update(petData){
+//     let result = await db.query(
+//         `UPDATE adoptable_pets SET `
+//     )
+// }
+
+async function remove(id){
+    let row = await db.query(
+        `DELETE FROM adoptable_pets WHERE pet_id=${id}`
+    );
+    let message = `Error in deleting adoptable pet data`;
+
+    if(row.affectedRows){
+        message = `Pet data successfully deleted`;
+    }
+    return {message};
 }
 
 module.exports = {
     getMultiple,
     findOne,
     create,
+    remove,
 }

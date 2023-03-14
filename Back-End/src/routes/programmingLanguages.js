@@ -42,7 +42,6 @@ router.get('/:id', async (req, res, next) => {
 })
 
 router.delete('/:id', async (req, res, next) => {
-    console.log("helo?");
     try {
         const { id } = req.params;
         console.log("id => ", id);
