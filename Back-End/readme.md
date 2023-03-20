@@ -20,12 +20,16 @@ This is a simple RESTful server using express and NodeJS. It's main purpose is t
 ![Barkbook MySQL Schema](./assets/sql_schema.png)
 
 ### Endpoint
-    - CITE/getDogs
+    - /getAnimals
+        - Request data from Petfinder API and returns an array of pet data that can be added into pet database
+    - CITE/adoptable-pets
         - Retrieves all available dog data within the database
             - includes image and Id
-    - CITE/getDogs/${id}
+    - CITE/adoptable-pets/${id}
         - Retrieves data for one dog specifically
             - includes: name, image, age, location, Id, likes, comments
+        - Updates specified pet within the database given body including all of current and new fields
+        - Deletes specified pet (removal of animal occurs only on the backend to update all adotable pets vs adopted pets!)
     - CITE/login
         - Authenticates user account and returns a 200 code status or a 404 "Not a user" error
     - CITE/signup

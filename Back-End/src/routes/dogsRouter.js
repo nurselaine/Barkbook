@@ -17,7 +17,7 @@ router.get('/getAnimals', petAuth, async (req, res, err) => {
     console.log(token);
     if(token){
         try {
-            const response = await axios.get('https://api.petfinder.com/v2/animals?type=dog', {
+            const response = await axios.get('https://api.petfinder.com/v2/animals?type=dog&page=3', {
                 headers: {
                     'Authorization': token
                 }
@@ -25,7 +25,7 @@ router.get('/getAnimals', petAuth, async (req, res, err) => {
             let data = sanitizeData(response.data);
             res.status(200).send(response.data);
         } catch (err) {
-            res.status(400).send(err);
+            res.status(400).send(err.message);
         }
     } else {
         res.status(404).send(`bad token. check credentials`);
@@ -37,12 +37,12 @@ function sanitizeData(data){
     const petArr = data.animals;
     let jsonData = {};
 
-    jsonData.pets = petArr.map(pet => ({
+    jsonData.pets = petArr.map((pet, i) => ({
         "name": pet.name,
         "age": pet.age,
         "primary_color": pet.colors.primary,
         "url": pet.url,
-        "imgsrc": pet.photos[0].full,
+        "imgsrc": pet.photos,
         "pet_id": pet.id,
         "context": pet.description,
         "breed": pet.breeds.primary,
@@ -53,6 +53,8 @@ function sanitizeData(data){
         "animal_type": pet.type,
 
     }));
+
+    console.log("img => ", petArr[0].imgsrc);
 
     let stringifyData = JSON.stringify(jsonData, null, 2);
 

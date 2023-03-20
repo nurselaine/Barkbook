@@ -32,7 +32,8 @@ router.post('/', async(req, res, next) => {
 
         for(let i = 0; i < size; i++){
             pet_data[i].spayed_neutered = pet_data[i].spayed_neutered ? 0 : 1;
-            // console.log(pet_data[i]);
+            pet_data[i].imgsrc = pet_data[i].imgsrc[0]?.full;
+            console.log("imgsrc => ", pet_data[i].imgsrc);
             await adoptablePets.create(pet_data[i]);
             count++;
         }
