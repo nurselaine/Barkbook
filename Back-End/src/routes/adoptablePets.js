@@ -24,6 +24,20 @@ router.get('/:id', async (req, res, next) => {
     }
 })
 
+// this method does not work
+// router.get('/size', async (req, res, next) => {
+//     console.log("hello find my size method");
+//     const { size } = req.body;
+//     console.log(req);
+//     console.log("Size => " + size);
+//     try {
+//         // res.json(await adoptablePets.getBySize(size));
+//         res.json("hello world");
+//     } catch (error){
+//         console.error(`Error while fetching pet data`, error.message);
+//     }
+// })
+
 router.post('/', async(req, res, next) => {
     try{
         let size = data.pets.length;
@@ -33,6 +47,7 @@ router.post('/', async(req, res, next) => {
         for(let i = 0; i < size; i++){
             pet_data[i].spayed_neutered = pet_data[i].spayed_neutered ? 0 : 1;
             pet_data[i].imgsrc = pet_data[i].imgsrc[0]?.full;
+            pet_data[i].primary_imgsrc = pet_data[i].primary_imgsrc?.full;
             console.log("imgsrc => ", pet_data[i].imgsrc);
             await adoptablePets.create(pet_data[i]);
             count++;
@@ -57,6 +72,14 @@ router.delete('/:id', async (req, res, next) => {
         const { id } = req.params;
         console.log("id => " + id)
         res.json(await adoptablePets.remove(id));
+    } catch (error) {
+        console.error(`Error while fetching pet data`, error.message);
+    }
+})
+
+router.delete('/', async (req, res, next) => {
+    try {
+        res.json(await adoptablePets.removeAll());
     } catch (error) {
         console.error(`Error while fetching pet data`, error.message);
     }

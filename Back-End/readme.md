@@ -11,7 +11,9 @@ https://barkbook-prod-server.onrender.com
 
 ### Description
 
-This is a simple RESTful server using express and NodeJS. It's main purpose is to utilize data from an API and store the data within a MySQL database. It also provides authentication and authorization for users to be added within the database and to store their user info within the application.
+This is a simple RESTful API using express and NodeJS. It's main purpose is to utilize data from a Petfinder API and store the data within a MySQL database. It also provides authentication and authorization for users to be added within the database and to store their user info within the application.
+
+This database will be updated bi-weekly by the owner ensure pets being requested are adoptable.
 
 ### Server Outline - data model
 ![barkbook server](./assets/data-model.png)
