@@ -24,7 +24,7 @@ app.use(logger);
 app.use(dogsRouter, petAuth);
 app.use('/programming-languages', programmingLanguagesRouter);
 app.use('/adoptable-pets', adoptablePetsRouter);
-app.use('/petComments', petCommentsRouter);
+app.use(petCommentsRouter);
 
 app.get('/', (req, res, err) => {
     res.status(200).send("Welcome to the BarkBook Server!");

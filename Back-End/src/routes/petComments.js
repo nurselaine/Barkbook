@@ -19,7 +19,7 @@ router.get('/comment/:id', async(req, res, next) => {
 router.post('/comment/:id', async (req, res, next) => {
     const { id } = req.params;
     try {
-        res.json(await petComments.create(req.body, id));
+        res.json(await petComments.create(req.body.comment, id));
     } catch (error){
         console.error(`Error while trying to add new comment to pet comments`, error.message);
     }

@@ -1,899 +1,597 @@
 {
   "pets": [
     {
-      "name": "Aaron",
-      "age": "Young",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/aaron-61300356/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/1/?bust=1679294002&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/1/?bust=1679294002&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/1/?bust=1679294002&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/1/?bust=1679294002"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/2/?bust=1679294015&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/2/?bust=1679294015&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/2/?bust=1679294015&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/2/?bust=1679294015"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/3/?bust=1679294020&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/3/?bust=1679294020&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/3/?bust=1679294020&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/3/?bust=1679294020"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/4/?bust=1679294014&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/4/?bust=1679294014&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/4/?bust=1679294014&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/4/?bust=1679294014"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/5/?bust=1679294020&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/5/?bust=1679294020&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/5/?bust=1679294020&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300356/5/?bust=1679294020"
-        }
-      ],
-      "pet_id": 61300356,
-      "context": "Hello, my name is Aaron. I am a goofy, fun loving puppy! I&amp;#39;m the best of both worlds I have...",
-      "breed": "Shepherd",
-      "gender": "Male",
-      "size": "Small",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Wonton",
-      "age": "Young",
-      "primary_color": "Gray / Blue / Silver",
-      "url": "https://www.petfinder.com/dog/wonton-61300244/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/1/?bust=1679293940&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/1/?bust=1679293940&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/1/?bust=1679293940&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/1/?bust=1679293940"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/2/?bust=1679293936&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/2/?bust=1679293936&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/2/?bust=1679293936&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/2/?bust=1679293936"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/3/?bust=1679293925&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/3/?bust=1679293925&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/3/?bust=1679293925&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/3/?bust=1679293925"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/4/?bust=1679293936&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/4/?bust=1679293936&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/4/?bust=1679293936&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/4/?bust=1679293936"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/5/?bust=1679293942&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/5/?bust=1679293942&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/5/?bust=1679293942&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/5/?bust=1679293942"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/6/?bust=1679293905&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/6/?bust=1679293905&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/6/?bust=1679293905&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300244/6/?bust=1679293905"
-        }
-      ],
-      "pet_id": 61300244,
-      "context": "Hello, my name is Wonton. I&amp;#39;m a darling Staffy looking for love! I am looking for a partner to join...",
-      "breed": "Pit Bull Terrier",
-      "gender": "Female",
-      "size": "Medium",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Phil",
-      "age": "Young",
-      "primary_color": "Yellow / Tan / Blond / Fawn",
-      "url": "https://www.petfinder.com/dog/phil-61300180/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/1/?bust=1679293834&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/1/?bust=1679293834&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/1/?bust=1679293834&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/1/?bust=1679293834"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/2/?bust=1679293835&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/2/?bust=1679293835&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/2/?bust=1679293835&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/2/?bust=1679293835"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/3/?bust=1679293822&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/3/?bust=1679293822&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/3/?bust=1679293822&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/3/?bust=1679293822"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/4/?bust=1679293866&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/4/?bust=1679293866&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/4/?bust=1679293866&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/4/?bust=1679293866"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/5/?bust=1679293858&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/5/?bust=1679293858&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/5/?bust=1679293858&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/5/?bust=1679293858"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/6/?bust=1679293830&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/6/?bust=1679293830&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/6/?bust=1679293830&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300180/6/?bust=1679293830"
-        }
-      ],
-      "pet_id": 61300180,
-      "context": "I am so excited to finally meet you my future family! My name is Phil, but my foster mom keeps...",
-      "breed": "American Staffordshire Terrier",
-      "gender": "Male",
-      "size": "Large",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Grace Hargraves",
-      "age": "Young",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/grace-hargraves-61300192/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/1/?bust=1679293849&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/1/?bust=1679293849&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/1/?bust=1679293849&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/1/?bust=1679293849"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/2/?bust=1679293881&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/2/?bust=1679293881&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/2/?bust=1679293881&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/2/?bust=1679293881"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/3/?bust=1679293872&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/3/?bust=1679293872&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/3/?bust=1679293872&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/3/?bust=1679293872"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/4/?bust=1679293872&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/4/?bust=1679293872&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/4/?bust=1679293872&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/4/?bust=1679293872"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/5/?bust=1679293836&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/5/?bust=1679293836&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/5/?bust=1679293836&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/5/?bust=1679293836"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/6/?bust=1679293838&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/6/?bust=1679293838&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/6/?bust=1679293838&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300192/6/?bust=1679293838"
-        }
-      ],
-      "pet_id": 61300192,
-      "context": "Hello, Im Grace. I am a beautiful, sturdy 3-year-old and an incredibly smart girl. My perky ears are like little...",
-      "breed": "American Staffordshire Terrier",
-      "gender": "Female",
-      "size": "Medium",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Ned",
-      "age": "Young",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/ned-61300194/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/1/?bust=1679293833&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/1/?bust=1679293833&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/1/?bust=1679293833&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/1/?bust=1679293833"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/2/?bust=1679293874&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/2/?bust=1679293874&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/2/?bust=1679293874&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/2/?bust=1679293874"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/3/?bust=1679293846&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/3/?bust=1679293846&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/3/?bust=1679293846&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/3/?bust=1679293846"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/4/?bust=1679293871&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/4/?bust=1679293871&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/4/?bust=1679293871&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/4/?bust=1679293871"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/5/?bust=1679293851&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/5/?bust=1679293851&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/5/?bust=1679293851&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/5/?bust=1679293851"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/6/?bust=1679293844&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/6/?bust=1679293844&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/6/?bust=1679293844&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300194/6/?bust=1679293844"
-        }
-      ],
-      "pet_id": 61300194,
-      "context": "Hi, my name is Ned. I have a really pretty fur coat it looks black but in the sunshine, I...",
-      "breed": "American Staffordshire Terrier",
-      "gender": "Male",
-      "size": "Small",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Pop",
-      "age": "Young",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/pop-61300228/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/1/?bust=1679293911&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/1/?bust=1679293911&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/1/?bust=1679293911&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/1/?bust=1679293911"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/2/?bust=1679293908&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/2/?bust=1679293908&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/2/?bust=1679293908&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/2/?bust=1679293908"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/3/?bust=1679293886&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/3/?bust=1679293886&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/3/?bust=1679293886&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/3/?bust=1679293886"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/4/?bust=1679293912&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/4/?bust=1679293912&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/4/?bust=1679293912&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/4/?bust=1679293912"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/5/?bust=1679293908&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/5/?bust=1679293908&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/5/?bust=1679293908&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/5/?bust=1679293908"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/6/?bust=1679293904&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/6/?bust=1679293904&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/6/?bust=1679293904&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300228/6/?bust=1679293904"
-        }
-      ],
-      "pet_id": 61300228,
-      "context": "Hello, Im Pop! I have super soft fur and the white markings on my nose. I am SO happy all...",
-      "breed": "American Staffordshire Terrier",
-      "gender": "Male",
-      "size": "Small",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Acadia",
-      "age": "Baby",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/acadia-61300219/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/1/?bust=1679293886&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/1/?bust=1679293886&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/1/?bust=1679293886&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/1/?bust=1679293886"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/2/?bust=1679293883&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/2/?bust=1679293883&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/2/?bust=1679293883&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/2/?bust=1679293883"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/3/?bust=1679293869&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/3/?bust=1679293869&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/3/?bust=1679293869&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/3/?bust=1679293869"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/4/?bust=1679293876&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/4/?bust=1679293876&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/4/?bust=1679293876&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/4/?bust=1679293876"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/5/?bust=1679293886&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/5/?bust=1679293886&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/5/?bust=1679293886&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300219/5/?bust=1679293886"
-        }
-      ],
-      "pet_id": 61300219,
-      "context": "Hi, my name is Acadia. I am the smallest of the National Park pups in size, but not in spirit!...",
-      "breed": "American Staffordshire Terrier",
-      "gender": "Female",
-      "size": "Small",
-      "spayed_neutered": false,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Boone",
-      "age": "Baby",
-      "primary_color": "Brown / Chocolate",
-      "url": "https://www.petfinder.com/dog/boone-61300208/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/1/?bust=1679293860&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/1/?bust=1679293860&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/1/?bust=1679293860&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/1/?bust=1679293860"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/2/?bust=1679293858&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/2/?bust=1679293858&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/2/?bust=1679293858&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/2/?bust=1679293858"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/3/?bust=1679293889&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/3/?bust=1679293889&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/3/?bust=1679293889&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/3/?bust=1679293889"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/4/?bust=1679293863&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/4/?bust=1679293863&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/4/?bust=1679293863&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300208/4/?bust=1679293863"
-        }
-      ],
-      "pet_id": 61300208,
-      "context": "Hello, my name is Boone. I may be small, but I have the biggest heart! I love to snuggle up...",
-      "breed": "Pit Bull Terrier",
-      "gender": "Male",
-      "size": "Small",
-      "spayed_neutered": false,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "JJ",
-      "age": "Young",
-      "primary_color": "Brindle",
-      "url": "https://www.petfinder.com/dog/jj-61300231/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/1/?bust=1679293887&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/1/?bust=1679293887&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/1/?bust=1679293887&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/1/?bust=1679293887"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/2/?bust=1679293911&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/2/?bust=1679293911&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/2/?bust=1679293911&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/2/?bust=1679293911"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/3/?bust=1679293922&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/3/?bust=1679293922&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/3/?bust=1679293922&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/3/?bust=1679293922"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/4/?bust=1679293911&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/4/?bust=1679293911&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/4/?bust=1679293911&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/4/?bust=1679293911"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/5/?bust=1679293883&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/5/?bust=1679293883&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/5/?bust=1679293883&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/5/?bust=1679293883"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/6/?bust=1679293921&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/6/?bust=1679293921&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/6/?bust=1679293921&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300231/6/?bust=1679293921"
-        }
-      ],
-      "pet_id": 61300231,
-      "context": "Hello, my name is JJ. Just like the character JJ, I have a gentle and sympathetic nature. They don&amp;#39;t know...",
-      "breed": "Shepherd",
-      "gender": "Female",
-      "size": "Small",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Hank",
-      "age": "Young",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/hank-61300227/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/1/?bust=1679293917&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/1/?bust=1679293917&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/1/?bust=1679293917&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/1/?bust=1679293917"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/2/?bust=1679293887&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/2/?bust=1679293887&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/2/?bust=1679293887&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/2/?bust=1679293887"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/3/?bust=1679293878&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/3/?bust=1679293878&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/3/?bust=1679293878&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/3/?bust=1679293878"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/4/?bust=1679293901&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/4/?bust=1679293901&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/4/?bust=1679293901&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/4/?bust=1679293901"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/5/?bust=1679293880&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/5/?bust=1679293880&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/5/?bust=1679293880&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/5/?bust=1679293880"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/6/?bust=1679293890&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/6/?bust=1679293890&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/6/?bust=1679293890&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300227/6/?bust=1679293890"
-        }
-      ],
-      "pet_id": 61300227,
-      "context": "Hi, my name is Hank. My foster parents say I am the most loveable and sweetest boy! I came into...",
-      "breed": "Bull Terrier",
-      "gender": "Male",
-      "size": "Large",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Crackle",
-      "age": "Young",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/crackle-61300225/mn/minneapolis/save-a-bull-mn254/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/1/?bust=1679293915&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/1/?bust=1679293915&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/1/?bust=1679293915&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/1/?bust=1679293915"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/2/?bust=1679293879&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/2/?bust=1679293879&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/2/?bust=1679293879&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/2/?bust=1679293879"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/3/?bust=1679293885&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/3/?bust=1679293885&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/3/?bust=1679293885&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/3/?bust=1679293885"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/4/?bust=1679293919&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/4/?bust=1679293919&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/4/?bust=1679293919&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/4/?bust=1679293919"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/5/?bust=1679293896&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/5/?bust=1679293896&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/5/?bust=1679293896&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/5/?bust=1679293896"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/6/?bust=1679293874&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/6/?bust=1679293874&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/6/?bust=1679293874&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300225/6/?bust=1679293874"
-        }
-      ],
-      "pet_id": 61300225,
-      "context": "Hello! Thanks so much for clicking into my profile. My name is Crackle and Im about four months old. Im...",
-      "breed": "American Staffordshire Terrier",
-      "gender": "Male",
-      "size": "Small",
-      "spayed_neutered": true,
-      "email": "adoption@saveabullmn.org",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Vega",
-      "age": "Young",
-      "primary_color": "Yellow / Tan / Blond / Fawn",
-      "url": "https://www.petfinder.com/dog/vega-61300059/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/1/?bust=1679293963&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/1/?bust=1679293963&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/1/?bust=1679293963&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/1/?bust=1679293963"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/2/?bust=1679293980&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/2/?bust=1679293980&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/2/?bust=1679293980&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/2/?bust=1679293980"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/3/?bust=1679293973&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/3/?bust=1679293973&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/3/?bust=1679293973&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/3/?bust=1679293973"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/4/?bust=1679293953&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/4/?bust=1679293953&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/4/?bust=1679293953&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/4/?bust=1679293953"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/5/?bust=1679293965&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/5/?bust=1679293965&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/5/?bust=1679293965&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/5/?bust=1679293965"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/6/?bust=1679293971&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/6/?bust=1679293971&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/6/?bust=1679293971&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300059/6/?bust=1679293971"
-        }
-      ],
-      "pet_id": 61300059,
-      "context": "Please visit our website www.ittakesavillagerescue.com to learn more about this amazing dog and to see other available dogs.",
-      "breed": "Australian Shepherd",
-      "gender": "Female",
-      "size": "Medium",
-      "spayed_neutered": true,
-      "email": "ittakesavillagerescue@gmail.com",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Tina",
-      "age": "Baby",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/tina-61300072/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/1/?bust=1679293963&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/1/?bust=1679293963&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/1/?bust=1679293963&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/1/?bust=1679293963"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/2/?bust=1679293973&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/2/?bust=1679293973&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/2/?bust=1679293973&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/2/?bust=1679293973"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/3/?bust=1679293957&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/3/?bust=1679293957&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/3/?bust=1679293957&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/3/?bust=1679293957"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/4/?bust=1679293961&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/4/?bust=1679293961&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/4/?bust=1679293961&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/4/?bust=1679293961"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/5/?bust=1679293973&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/5/?bust=1679293973&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/5/?bust=1679293973&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300072/5/?bust=1679293973"
-        }
-      ],
-      "pet_id": 61300072,
-      "context": "Come meet us at Unleased Dog and Cat Store on March 18 from 11-2. Located off Kildaire farm Rd in...",
-      "breed": "Black Labrador Retriever",
-      "gender": "Female",
-      "size": "Medium",
-      "spayed_neutered": true,
-      "email": "ittakesavillagerescue@gmail.com",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Josie",
-      "age": "Young",
-      "primary_color": "Yellow / Tan / Blond / Fawn",
-      "url": "https://www.petfinder.com/dog/josie-61300067/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/1/?bust=1679293964&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/1/?bust=1679293964&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/1/?bust=1679293964&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/1/?bust=1679293964"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/2/?bust=1679293963&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/2/?bust=1679293963&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/2/?bust=1679293963&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/2/?bust=1679293963"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/3/?bust=1679293971&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/3/?bust=1679293971&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/3/?bust=1679293971&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/3/?bust=1679293971"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/4/?bust=1679293968&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/4/?bust=1679293968&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/4/?bust=1679293968&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300067/4/?bust=1679293968"
-        }
-      ],
-      "pet_id": 61300067,
-      "context": "Josie is a lovely low rider who appears to be a dachshund, terrier mix. She came to the village as...",
-      "breed": "Jack Russell Terrier",
-      "gender": "Female",
-      "size": "Small",
-      "spayed_neutered": true,
-      "email": "ittakesavillagerescue@gmail.com",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Bianca",
-      "age": "Young",
-      "primary_color": "Brown / Chocolate",
-      "url": "https://www.petfinder.com/dog/bianca-61300115/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/1/?bust=1679293809&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/1/?bust=1679293809&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/1/?bust=1679293809&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/1/?bust=1679293809"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/2/?bust=1679293826&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/2/?bust=1679293826&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/2/?bust=1679293826&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/2/?bust=1679293826"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/3/?bust=1679293842&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/3/?bust=1679293842&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/3/?bust=1679293842&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/3/?bust=1679293842"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/4/?bust=1679293837&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/4/?bust=1679293837&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/4/?bust=1679293837&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/4/?bust=1679293837"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/5/?bust=1679293804&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/5/?bust=1679293804&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/5/?bust=1679293804&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/5/?bust=1679293804"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/6/?bust=1679293801&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/6/?bust=1679293801&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/6/?bust=1679293801&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300115/6/?bust=1679293801"
-        }
-      ],
-      "pet_id": 61300115,
-      "context": "Please visit our website www.ittakesavillagerescue.com to learn more about this amazing dog and to see other available dogs.",
-      "breed": "American Bulldog",
-      "gender": "Female",
-      "size": "Medium",
-      "spayed_neutered": true,
-      "email": "ittakesavillagerescue@gmail.com",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Darby",
-      "age": "Baby",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/darby-61300077/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300077/1/?bust=1679293733&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300077/1/?bust=1679293733&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300077/1/?bust=1679293733&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300077/1/?bust=1679293733"
-        }
-      ],
-      "pet_id": 61300077,
-      "context": "The &amp;#34;D&amp;#34; litter were born in rescue. They have been socialized with dogs kids and cats. Mom is about 40...",
-      "breed": "Labrador Retriever",
-      "gender": "Male",
-      "size": "Medium",
-      "spayed_neutered": false,
-      "email": "ittakesavillagerescue@gmail.com",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Sadie",
+      "name": "Milky",
       "age": "Adult",
-      "primary_color": "Tricolor (Brown, Black, & White)",
-      "url": "https://www.petfinder.com/dog/sadie-61300088/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/1/?bust=1679293751&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/1/?bust=1679293751&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/1/?bust=1679293751&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/1/?bust=1679293751"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/2/?bust=1679293762&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/2/?bust=1679293762&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/2/?bust=1679293762&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/2/?bust=1679293762"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/3/?bust=1679293759&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/3/?bust=1679293759&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/3/?bust=1679293759&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/3/?bust=1679293759"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/4/?bust=1679293763&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/4/?bust=1679293763&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/4/?bust=1679293763&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/4/?bust=1679293763"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/5/?bust=1679293746&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/5/?bust=1679293746&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/5/?bust=1679293746&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/5/?bust=1679293746"
-        },
-        {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/6/?bust=1679293762&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/6/?bust=1679293762&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/6/?bust=1679293762&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300088/6/?bust=1679293762"
-        }
-      ],
-      "pet_id": 61300088,
-      "context": "Sadie is a gorgeous tree walker hound. She is in foster with dogs and does well. Shes also been to...",
-      "breed": "Treeing Walker Coonhound",
-      "gender": "Female",
-      "size": "Medium",
-      "spayed_neutered": true,
-      "email": "ittakesavillagerescue@gmail.com",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Summer",
-      "age": "Young",
       "primary_color": "Yellow / Tan / Blond / Fawn",
-      "url": "https://www.petfinder.com/dog/summer-61300107/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "url": "https://www.petfinder.com/dog/milky-61351677/ca/south-san-francisco/camp-cocker-rescue-ca1226/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
       "imgsrc": [
         {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/1/?bust=1679293799&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/1/?bust=1679293799&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/1/?bust=1679293799&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/1/?bust=1679293799"
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495"
         },
         {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/2/?bust=1679293793&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/2/?bust=1679293793&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/2/?bust=1679293793&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/2/?bust=1679293793"
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/1/?bust=1679376497&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/1/?bust=1679376497&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/1/?bust=1679376497&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/1/?bust=1679376497"
         },
         {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/3/?bust=1679293785&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/3/?bust=1679293785&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/3/?bust=1679293785&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/3/?bust=1679293785"
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/2/?bust=1679376499&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/2/?bust=1679376499&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/2/?bust=1679376499&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/2/?bust=1679376499"
         },
         {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/4/?bust=1679293791&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/4/?bust=1679293791&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/4/?bust=1679293791&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300107/4/?bust=1679293791"
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/3/?bust=1679376501&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/3/?bust=1679376501&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/3/?bust=1679376501&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/3/?bust=1679376501"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/5/?bust=1679376502&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/5/?bust=1679376502&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/5/?bust=1679376502&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/5/?bust=1679376502"
         }
       ],
-      "pet_id": 61300107,
-      "context": "Summer is a beautiful happy girl. She loves to play with other dogs and needs one in her life. She...",
-      "breed": "Yellow Labrador Retriever",
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351677/4/?bust=1679376495"
+      },
+      "pet_id": 61351677,
+      "context": "&gt;&gt; STAY CURRENT WITH THE LATEST DETAILS &amp; UPDATES ON *ALL* CAMP COCKER DOGS AT WWW.CAMPCOCKER.COM\n\n&gt;&gt; UPDATED PHOTOS, VIDEOS...",
+      "breed": "Cocker Spaniel",
       "gender": "Female",
-      "size": "Medium",
+      "size": "Small",
       "spayed_neutered": true,
-      "email": "ittakesavillagerescue@gmail.com",
+      "email": "CampCockerInformation@gmail.com",
       "animal_type": "Dog"
     },
     {
-      "name": "Georgia",
+      "name": "MABEL",
       "age": "Baby",
-      "primary_color": "Yellow / Tan / Blond / Fawn",
-      "url": "https://www.petfinder.com/dog/georgia-61300114/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "primary_color": null,
+      "url": "https://www.petfinder.com/dog/mabel-61351670/ms/southaven/new-beginnings-animal-rescue-ms235/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
       "imgsrc": [
         {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300114/1/?bust=1679293824&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300114/1/?bust=1679293824&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300114/1/?bust=1679293824&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61300114/1/?bust=1679293824"
-        }
-      ],
-      "pet_id": 61300114,
-      "context": "Please visit our website www.ittakesavillagerescue.com to learn more about this amazing dog and to see other available dogs.",
-      "breed": "Shepherd",
-      "gender": "Female",
-      "size": "Medium",
-      "spayed_neutered": false,
-      "email": "ittakesavillagerescue@gmail.com",
-      "animal_type": "Dog"
-    },
-    {
-      "name": "Pepper",
-      "age": "Baby",
-      "primary_color": "Black",
-      "url": "https://www.petfinder.com/dog/pepper-61299980/nc/sanford/it-takes-a-village-rescue-nc1018/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
-      "imgsrc": [
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684"
+        },
         {
-          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61299980/1/?bust=1679293954&width=100",
-          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61299980/1/?bust=1679293954&width=300",
-          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61299980/1/?bust=1679293954&width=600",
-          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61299980/1/?bust=1679293954"
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/2/?bust=1679373689&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/2/?bust=1679373689&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/2/?bust=1679373689&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/2/?bust=1679373689"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/3/?bust=1679373687&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/3/?bust=1679373687&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/3/?bust=1679373687&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/3/?bust=1679373687"
         }
       ],
-      "pet_id": 61299980,
-      "context": "Please visit our website www.ittakesavillagerescue.com to learn more about this amazing dog and to see other available dogs.",
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351670/1/?bust=1679373684"
+      },
+      "pet_id": 61351670,
+      "context": "You can fill out an adoption application online on our official website.\n\nMabel is in her foster home located in...",
       "breed": "Labrador Retriever",
       "gender": "Female",
       "size": "Medium",
+      "spayed_neutered": true,
+      "email": "newbeginnings_animalrescue@yahoo.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Merida",
+      "age": "Young",
+      "primary_color": "Brown / Chocolate",
+      "url": "https://www.petfinder.com/dog/merida-61351668/wa/puyallup/casa-dog-wa728/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351668/1/?bust=1679373042"
+      },
+      "pet_id": 61351668,
+      "context": "Merida is 2 years old and 13lbs. Merida is very active but is also a great snuggler. Good with everyone....",
+      "breed": "Chihuahua",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": "Casadogrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "O'Malley",
+      "age": "Young",
+      "primary_color": null,
+      "url": "https://www.petfinder.com/dog/o-and-number-34malley-61351666/az/glendale/canine-rescue-coalition-az-mastiff-rescue-az241/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/2/?bust=1679373632&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/2/?bust=1679373632&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/2/?bust=1679373632&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/2/?bust=1679373632"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/3/?bust=1679373629&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/3/?bust=1679373629&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/3/?bust=1679373629&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/3/?bust=1679373629"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351666/1/?bust=1679373634"
+      },
+      "pet_id": 61351666,
+      "context": "You can fill out an adoption application online on our official website.Meet O&amp;#34;Malley , this sweet young guy has the...",
+      "breed": "Mastiff",
+      "gender": "Male",
+      "size": "Large",
+      "spayed_neutered": true,
+      "email": "azmastiffrescue@yahoo.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Eleanor",
+      "age": "Young",
+      "primary_color": null,
+      "url": "https://www.petfinder.com/dog/eleanor-61351667/az/glendale/canine-rescue-coalition-az-mastiff-rescue-az241/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/2/?bust=1679373637&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/2/?bust=1679373637&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/2/?bust=1679373637&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/2/?bust=1679373637"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/3/?bust=1679373633&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/3/?bust=1679373633&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/3/?bust=1679373633&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/3/?bust=1679373633"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351667/1/?bust=1679373634"
+      },
+      "pet_id": 61351667,
+      "context": "You can fill out an adoption application online on our official website.Meet Eleanor, this sweet girl is just over a...",
+      "breed": "Mastiff",
+      "gender": "Female",
+      "size": "Extra Large",
+      "spayed_neutered": true,
+      "email": "azmastiffrescue@yahoo.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Milky",
+      "age": "Adult",
+      "primary_color": "Yellow / Tan / Blond / Fawn",
+      "url": "https://www.petfinder.com/dog/milky-61351665/ca/sherman-oaks/camp-cocker-rescue-ca1308/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/2/?bust=1679375709&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/2/?bust=1679375709&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/2/?bust=1679375709&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/2/?bust=1679375709"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/3/?bust=1679375711&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/3/?bust=1679375711&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/3/?bust=1679375711&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/3/?bust=1679375711"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/4/?bust=1679375713&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/4/?bust=1679375713&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/4/?bust=1679375713&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/4/?bust=1679375713"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/5/?bust=1679375715&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/5/?bust=1679375715&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/5/?bust=1679375715&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/5/?bust=1679375715"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351665/1/?bust=1679375707"
+      },
+      "pet_id": 61351665,
+      "context": "&gt;&gt; STAY CURRENT WITH THE LATEST DETAILS &amp; UPDATES ON *ALL* CAMP COCKER DOGS AT WWW.CAMPCOCKER.COM\n\n&gt;&gt; UPDATED PHOTOS, VIDEOS...",
+      "breed": "Cocker Spaniel",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": "CampCockerInformation@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "River",
+      "age": "Adult",
+      "primary_color": "Brown / Chocolate",
+      "url": "https://www.petfinder.com/dog/river-61351661/oh/cleveland/mutts-in-a-rut-rescue-inc-oh1073/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/2/?bust=1679372941&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/2/?bust=1679372941&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/2/?bust=1679372941&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/2/?bust=1679372941"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/3/?bust=1679372941&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/3/?bust=1679372941&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/3/?bust=1679372941&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/3/?bust=1679372941"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351661/1/?bust=1679372940"
+      },
+      "pet_id": 61351661,
+      "context": "Meet River!\n\nRiver came to us as an emaciated stray that had to spend time at the hospital to get...",
+      "breed": "Boxer",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "muttsinarutrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Shelly",
+      "age": "Adult",
+      "primary_color": "White / Cream",
+      "url": "https://www.petfinder.com/dog/shelly-61351660/nv/las-vegas/house-of-second-chances-animal-rescue-nv227/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351660/1/?bust=1679372924"
+      },
+      "pet_id": 61351660,
+      "context": "Hello I&#039;m new here. I found myself on a bad part of town and lost my eye. I&#039;m all recovered...",
+      "breed": "Maltese",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": "houseofsecondchancesar@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Cane",
+      "age": "Baby",
+      "primary_color": "White / Cream",
+      "url": "https://www.petfinder.com/dog/cane-61351659/ca/lake-elsinore/paw-of-duty-lodging-inc-ca3067/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/2/?bust=1679372915&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/2/?bust=1679372915&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/2/?bust=1679372915&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/2/?bust=1679372915"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/3/?bust=1679372915&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/3/?bust=1679372915&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/3/?bust=1679372915&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/3/?bust=1679372915"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351659/1/?bust=1679372914"
+      },
+      "pet_id": 61351659,
+      "context": "I rescued Mama Mimosa (shepard) from Devore Shelter Dec 26th after 3 whole weeks she sat in a cold concrete...",
+      "breed": "German Shepherd Dog",
+      "gender": "Male",
+      "size": "Medium",
       "spayed_neutered": false,
-      "email": "ittakesavillagerescue@gmail.com",
+      "email": "Pawofdutylodging@yahoo.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Thunder",
+      "age": "Baby",
+      "primary_color": "White / Cream",
+      "url": "https://www.petfinder.com/dog/thunder-61351657/wa/puyallup/casa-dog-wa728/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/2/?bust=1679373388&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/2/?bust=1679373388&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/2/?bust=1679373388&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/2/?bust=1679373388"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351657/1/?bust=1679372828"
+      },
+      "pet_id": 61351657,
+      "context": "Thunder is 2.5 months old and 5lbs. Sweet, playful puppy. Mom is in the last pic. Dog is not spayed/neutered....",
+      "breed": "Terrier",
+      "gender": "Male",
+      "size": "Small",
+      "spayed_neutered": false,
+      "email": "Casadogrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Ezra",
+      "age": "Senior",
+      "primary_color": "White / Cream",
+      "url": "https://www.petfinder.com/dog/ezra-61351655/ca/san-diego/a-new-life-charitable-foundation-inc-ca2631/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/2/?bust=1679373337&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/2/?bust=1679373337&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/2/?bust=1679373337&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/2/?bust=1679373337"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/3/?bust=1679373335&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/3/?bust=1679373335&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/3/?bust=1679373335&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/3/?bust=1679373335"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/4/?bust=1679373334&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/4/?bust=1679373334&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/4/?bust=1679373334&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/4/?bust=1679373334"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/5/?bust=1679373335&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/5/?bust=1679373335&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/5/?bust=1679373335&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/5/?bust=1679373335"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351655/1/?bust=1679373336"
+      },
+      "pet_id": 61351655,
+      "context": "Ezra is a happy and gentle boy. He is great with dogs. Loving and calm boy. He loves being with...",
+      "breed": "Terrier",
+      "gender": "Male",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": "info@anlcf.org",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Mowgli",
+      "age": "Baby",
+      "primary_color": "Bicolor",
+      "url": "https://www.petfinder.com/dog/mowgli-61351648/ca/lake-elsinore/paw-of-duty-lodging-inc-ca3067/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351648/1/?bust=1679372708"
+      },
+      "pet_id": 61351648,
+      "context": "?I rescued Mama Mimosa (shepard) from Devore Shelter Dec 26th after 3 whole weeks she sat in a cold concrete...",
+      "breed": "German Shepherd Dog",
+      "gender": "Male",
+      "size": "Medium",
+      "spayed_neutered": false,
+      "email": "Pawofdutylodging@yahoo.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Estrella",
+      "age": "Baby",
+      "primary_color": "White / Cream",
+      "url": "https://www.petfinder.com/dog/estrella-number-2-61351646/wa/puyallup/casa-dog-wa728/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/2/?bust=1679373434&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/2/?bust=1679373434&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/2/?bust=1679373434&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/2/?bust=1679373434"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351646/1/?bust=1679372644"
+      },
+      "pet_id": 61351646,
+      "context": "Estrella is 2.5 months old and 5lbs. Sweet, playful puppy. Mom is in the second picture. Dog is not spayed/neutered....",
+      "breed": "Terrier",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": false,
+      "email": "Casadogrescue@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Pancake",
+      "age": "Young",
+      "primary_color": "Black",
+      "url": "https://www.petfinder.com/dog/pancake-61351644/nv/las-vegas/house-of-second-chances-animal-rescue-nv227/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351644/1/?bust=1679372605"
+      },
+      "pet_id": 61351644,
+      "context": "Sweet one year old girl. About 13 pounds. Shitz mix. Taller girl. Super sweet. Spayed. Vaccinated. Chipped. $300 adoption fee....",
+      "breed": "Shih Tzu",
+      "gender": "Female",
+      "size": "Small",
+      "spayed_neutered": true,
+      "email": "houseofsecondchancesar@gmail.com",
+      "animal_type": "Dog"
+    },
+    {
+      "name": "Gu-Ku",
+      "age": "Young",
+      "primary_color": null,
+      "url": "https://www.petfinder.com/dog/gu-ku-61351642/co/fort-lupton/soul-dog-rescue-co447/?referrer_id=759575f5-3673-43a5-9373-ce18220a7fbc",
+      "imgsrc": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/2/?bust=1679373174&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/2/?bust=1679373174&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/2/?bust=1679373174&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/2/?bust=1679373174"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/3/?bust=1679373173&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/3/?bust=1679373173&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/3/?bust=1679373173&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/3/?bust=1679373173"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/4/?bust=1679373172&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/4/?bust=1679373172&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/4/?bust=1679373172&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/4/?bust=1679373172"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/5/?bust=1679373171&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/5/?bust=1679373171&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/5/?bust=1679373171&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/5/?bust=1679373171"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/6/?bust=1679373172&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/6/?bust=1679373172&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/6/?bust=1679373172&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/6/?bust=1679373172"
+        }
+      ],
+      "primary_imgsrc": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/61351642/1/?bust=1679373173"
+      },
+      "pet_id": 61351642,
+      "context": "This sweet juvenile is in foster. She is great with other dogs, friendly and sweet. Please fill Out an application...",
+      "breed": "Labrador Retriever",
+      "gender": "Female",
+      "size": "Medium",
+      "spayed_neutered": true,
+      "email": "adopt@souldog.org",
       "animal_type": "Dog"
     }
   ]

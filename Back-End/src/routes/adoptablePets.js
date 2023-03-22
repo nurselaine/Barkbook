@@ -17,10 +17,50 @@ router.get('/', async (req, res, next) => {
 
 router.get('/:id', async (req, res, next) => {
     const { id } = req.params;
+    console.log()
     try {
         res.json(await adoptablePets.findOne(id));
     } catch (error) {
         console.error(`Error while fetching pet data`, error.message);
+    }
+})
+
+router.get('/size/:size', async (req, res, next) => {
+const { size } = req.params;
+    try {
+        res.json(await adoptablePets.findBySize(size));
+    } catch (error){
+        console.error(`Error while fetching pet data`, error.message);
+    }
+})
+
+router.get('/age/:age', async (req, res, next) => {
+    const { age } = req.params;
+    try {
+        res.json(await adoptablePets.findByAge(age));
+    } catch (error) {
+        console.error(`Error while fetching dogs by age: ${error.message}`);
+    }
+})
+
+router.get('/breed/all', async (req, res, next) => {
+    try {
+        let response = await adoptablePets.findAllBreeds();
+        console.log(response);
+        let breedArray = response.data.map(dog => dog.breed);
+        res.json(breedArray);
+    } catch (error) {
+        console.error(`Error while fetching all breed types ${error.message}`)
+    }
+})
+
+router.get('/breed/:breed', async (req, res, next) => {
+    const { breed } = req.params;
+    console.log(breed);
+    try {
+        res.json( await adoptablePets.findByBreed(breed));
+    } catch (error) {
+        console.error(`Error while fetching data on dog breed: ${error.message}`);
     }
 })
 
@@ -33,6 +73,7 @@ router.post('/', async(req, res, next) => {
         for(let i = 0; i < size; i++){
             pet_data[i].spayed_neutered = pet_data[i].spayed_neutered ? 0 : 1;
             pet_data[i].imgsrc = pet_data[i].imgsrc[0]?.full;
+            pet_data[i].primary_imgsrc = pet_data[i].primary_imgsrc?.full;
             console.log("imgsrc => ", pet_data[i].imgsrc);
             await adoptablePets.create(pet_data[i]);
             count++;
@@ -57,6 +98,14 @@ router.delete('/:id', async (req, res, next) => {
         const { id } = req.params;
         console.log("id => " + id)
         res.json(await adoptablePets.remove(id));
+    } catch (error) {
+        console.error(`Error while fetching pet data`, error.message);
+    }
+})
+
+router.delete('/', async (req, res, next) => {
+    try {
+        res.json(await adoptablePets.removeAll());
     } catch (error) {
         console.error(`Error while fetching pet data`, error.message);
     }

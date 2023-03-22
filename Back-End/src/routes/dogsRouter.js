@@ -17,7 +17,7 @@ router.get('/getAnimals', petAuth, async (req, res, err) => {
     console.log(token);
     if(token){
         try {
-            const response = await axios.get('https://api.petfinder.com/v2/animals?type=dog&page=3', {
+            const response = await axios.get('https://api.petfinder.com/v2/animals?type=dog&page=10', {
                 headers: {
                     'Authorization': token
                 }
@@ -43,6 +43,7 @@ function sanitizeData(data){
         "primary_color": pet.colors.primary,
         "url": pet.url,
         "imgsrc": pet.photos,
+        "primary_imgsrc": pet.primary_photo_cropped,
         "pet_id": pet.id,
         "context": pet.description,
         "breed": pet.breeds.primary,
