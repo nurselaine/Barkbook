@@ -106,6 +106,28 @@ async function findByAge(pet_age){
     }
 }
 
+async function findAllBreeds(){
+    let rows = await db.query(
+        `SELECT DISTINCT breed FROM adoptable_pets`
+    );
+
+    const data = helper.emptyOrRows(rows);
+    return {
+        data,
+    }
+}
+
+async function findByBreed(pet_breed){
+    let rows = await db.query(
+        `SELECT id, pet_id, name, primary_imgsrc FROM adoptable_pets WHERE breed="${pet_breed}"`
+    );
+
+    const data = helper.emptyOrRows(rows);
+    return {
+        data
+    }
+}
+
 
 module.exports = {
     getMultiple,
@@ -116,4 +138,6 @@ module.exports = {
     removeAll,
     findBySize,
     findByAge,
+    findAllBreeds,
+    findByBreed,
 }

@@ -39,7 +39,28 @@ router.get('/age/:age', async (req, res, next) => {
     try {
         res.json(await adoptablePets.findByAge(age));
     } catch (error) {
-        console.log(`Error while fetching dogs by age: ${error.message}`);
+        console.error(`Error while fetching dogs by age: ${error.message}`);
+    }
+})
+
+router.get('/breed/all', async (req, res, next) => {
+    try {
+        let response = await adoptablePets.findAllBreeds();
+        console.log(response);
+        let breedArray = response.data.map(dog => dog.breed);
+        res.json(breedArray);
+    } catch (error) {
+        console.error(`Error while fetching all breed types ${error.message}`)
+    }
+})
+
+router.get('/breed/:breed', async (req, res, next) => {
+    const { breed } = req.params;
+    console.log(breed);
+    try {
+        res.json( await adoptablePets.findByBreed(breed));
+    } catch (error) {
+        console.error(`Error while fetching data on dog breed: ${error.message}`);
     }
 })
 
