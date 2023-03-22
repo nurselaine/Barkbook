@@ -85,18 +85,24 @@ async function remove(id){
     return {message};
 }
 
-// this method does not work
-async function getBySize(pet_size, page = 1){
-    const offset = helper.getOffset(page, config.listPerPage);
+async function findBySize(pet_size){
     let rows = await db.query(
-        `SELECT id, name, pet_id, imgsrc FROM adoptable_pets WHERE size="${pet_size}"`
+        `SELECT id, name, pet_id, primary_imgsrc FROM adoptable_pets WHERE size="${pet_size}"`
     )
     const data = helper.emptyOrRows(rows);
-    const meta = { page };
 
     return {
-        data,
-        meta
+        data
+    }
+}
+
+async function findByAge(pet_age){
+    let rows = await db.query(
+        `SELECT id, pet_id, name, primary_imgsrc FROM adoptable_pets WHERE age="${pet_age}"`
+    );
+    const data = helper.emptyOrRows(rows);
+    return {
+        data
     }
 }
 
@@ -108,5 +114,6 @@ module.exports = {
     update,
     remove,
     removeAll,
-    getBySize,
+    findBySize,
+    findByAge,
 }

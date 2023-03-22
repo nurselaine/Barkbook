@@ -28,9 +28,18 @@ router.get('/:id', async (req, res, next) => {
 router.get('/size/:size', async (req, res, next) => {
 const { size } = req.params;
     try {
-        res.json(await adoptablePets.getBySize(size));
+        res.json(await adoptablePets.findBySize(size));
     } catch (error){
         console.error(`Error while fetching pet data`, error.message);
+    }
+})
+
+router.get('/age/:age', async (req, res, next) => {
+    const { age } = req.params;
+    try {
+        res.json(await adoptablePets.findByAge(age));
+    } catch (error) {
+        console.log(`Error while fetching dogs by age: ${error.message}`);
     }
 })
 
