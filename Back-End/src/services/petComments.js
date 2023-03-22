@@ -18,11 +18,12 @@ async function getMultiple(pet_id){
 }
 
 async function create(pet, pet_id){
+    console.log("comment => ", pet);
+    console.log("id => ", pet_id);
     let result = await db.query(
-        `INSERT INTO pet_comments (comment, pet_id, comment_id) VALUES (
-            comment=${pet.comment},
-            pet_id=${pet_id},
-            comment_id=${pet.comment_id}
+        `INSERT INTO pet_comments (comment, pet_id) VALUES (
+            comment="${pet.comment}",
+            pet_id=${pet_id}
         )`
     )
 

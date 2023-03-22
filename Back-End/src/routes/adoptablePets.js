@@ -17,6 +17,7 @@ router.get('/', async (req, res, next) => {
 
 router.get('/:id', async (req, res, next) => {
     const { id } = req.params;
+    console.log()
     try {
         res.json(await adoptablePets.findOne(id));
     } catch (error) {
@@ -24,19 +25,14 @@ router.get('/:id', async (req, res, next) => {
     }
 })
 
-// this method does not work
-// router.get('/size', async (req, res, next) => {
-//     console.log("hello find my size method");
-//     const { size } = req.body;
-//     console.log(req);
-//     console.log("Size => " + size);
-//     try {
-//         // res.json(await adoptablePets.getBySize(size));
-//         res.json("hello world");
-//     } catch (error){
-//         console.error(`Error while fetching pet data`, error.message);
-//     }
-// })
+router.get('/size/:size', async (req, res, next) => {
+const { size } = req.params;
+    try {
+        res.json(await adoptablePets.getBySize(size));
+    } catch (error){
+        console.error(`Error while fetching pet data`, error.message);
+    }
+})
 
 router.post('/', async(req, res, next) => {
     try{

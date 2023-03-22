@@ -19,9 +19,9 @@ async function getMultiple(page = 1){
     }
 }
 
-async function findOne(id){
+async function findOne(pet_id){
     const row = await db.query(
-        `SELECT * FROM adoptable_pets WHERE id = ${id}`
+        `SELECT * FROM adoptable_pets WHERE pet_id = ${pet_id}`
     )
 
     const data = helper.emptyOrRows(row);
@@ -86,20 +86,19 @@ async function remove(id){
 }
 
 // this method does not work
-// async function getBySize(pet_size, page = 1){
-//     const offset = helper.getOffset(page, config.listPerPage);
-//     let rows = await db.query(
-//         `SELECT id, name, pet_id, imgsrc FROM adoptable_pets`
-//     )
-//     const data = helper.emptyOrRows(rows);
-//     const meta = { page };
+async function getBySize(pet_size, page = 1){
+    const offset = helper.getOffset(page, config.listPerPage);
+    let rows = await db.query(
+        `SELECT id, name, pet_id, imgsrc FROM adoptable_pets WHERE size="${pet_size}"`
+    )
+    const data = helper.emptyOrRows(rows);
+    const meta = { page };
 
-//     return {
-//         data,
-//         meta
-//     }
-//     return 'hello world';
-// }
+    return {
+        data,
+        meta
+    }
+}
 
 
 module.exports = {
@@ -109,4 +108,5 @@ module.exports = {
     update,
     remove,
     removeAll,
+    getBySize,
 }
